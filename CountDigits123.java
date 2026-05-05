@@ -1,4 +1,4 @@
-class CountDigits{
+class CountDigits123{
     public static void main(String args[]){
         int num = 123;
         int count = 0;
